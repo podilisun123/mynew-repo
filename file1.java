@@ -1,0 +1,6 @@
+class First{
+
+	public static void main(String ar[]){
+	System.out.println("first git upload program");
+	}
+}
